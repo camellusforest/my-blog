@@ -876,7 +876,7 @@ page404:
 # Links Page
 #---------------------------
 links:
-  enable: true
+  enable: false
   # banner_img: https://cdn.jsdelivr.net/gh/leicancun/JSCDN@main/images/1616421416500-wallhaven-rddv31.jpg
   # banner_img_height: 80
   banner_mask_alpha: 0.3
@@ -910,7 +910,7 @@ links:
   # 友链下方自定义区域，支持 HTML，可插入例如申请友链的文字
   # Custom content at the bottom of the links
   custom:
-    enable: true
+    enable: false
     content: '<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>博客名：暮雨千泷</li><li>简介：青天白日梦神仙</li><li>链接：https://www.myql.xyz</li><li>图片：https://cdn.jsdelivr.net/gh/leicancun/JSCDN@master/images/circle-cropped.webp</li></ul>'
 
   # 评论插件
