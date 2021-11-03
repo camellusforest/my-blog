@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 演示站点
+title: Journal for Garden Path
 subtitle: ''
-description: '这是一个演示站点'
+description: '逝川與流光，飄忽不相待。這是我的日記本，也是我努力的痕跡，只希望自己每天都能進步一些，不枉時光。'
 keywords:
 author: 
-language: zh-CN
+language: zh-TW
 timezone: ''
 
 # URL
@@ -106,7 +106,7 @@ theme: fluid
 deploy:
   type: ''
   
-# 永久链接
+# 永久連結
 # abbrlink config
 abbrlink:
   alg: crc32      #support crc16(default) and crc32
@@ -122,14 +122,14 @@ abbrlink:
   auto_date: false #enable auto date, it can auto fill the date by time today
   force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink.
   
-# # 本地搜索
+# # 搜尋
 # search:
 #   path: search.xml
 #   field: post
 #   format: html
 #   limit: 10000
 
-# 站点地图
+# 網站地圖
 sitemap:
   path: sitemap.xml
 # hexo-filter-nofollow
