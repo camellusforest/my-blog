@@ -314,8 +314,8 @@ navbar:
       icon: 'iconfont icon-th-large',
       submenu: [
       { key: "about", link: "/about/", icon: "iconfont icon-user-fill" },
-      { key: "links", link: "/links/", icon: "iconfont icon-link-fill" },
-      { key: '收藏夾', link: 'https://docs.myql.xyz', icon: "iconfont icon-bookmark-fill" },
+#       { key: "links", link: "/links/", icon: "iconfont icon-link-fill" },
+#       { key: '收藏夾', link: 'https://docs.myql.xyz', icon: "iconfont icon-bookmark-fill" },
       { key: 'Admin', link: '/admin/', icon: "iconfont icon-users" }
       ]
     }
