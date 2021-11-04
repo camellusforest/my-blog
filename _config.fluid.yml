@@ -441,7 +441,7 @@ index:
 
     # 為空則按 hexo config.subtitle 顯示
     # If empty, text based on `subtitle` in hexo config
-    text: "參天大樹平地起，種因必得果。"
+    text: "根深者葉茂，種因必得果。"
 
     # 通過 API 接口作為首頁副標題的內容，必須返回的是 JSON 格式，如果請求失敗則按 text 字段顯示，該功能必須先開啓 typing 打字機功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
