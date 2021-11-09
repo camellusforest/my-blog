@@ -4,7 +4,7 @@ index:
 post:
   banner_img: https://raw.githubusercontent.com/camellusforest/Image/master/imgs/20200918132922.jpg
   banner_img_height: 70
-  default_index_img: https://raw.githubusercontent.com/camellusforest/Image/master/imgs/20200921053604.jpg
+  default_index_img: https://raw.githubusercontent.com/camellusforest/Image/master/imgs/20200812015548.jpg
 archive:
   banner_img: https://raw.githubusercontent.com/camellusforest/Image/master/imgs/20200917130306.jpg
   banner_img_height: 80
@@ -12,10 +12,10 @@ category:
   banner_img: https://raw.githubusercontent.com/camellusforest/Image/master/imgs/20200830160826.jpg
   banner_img_height: 80
 tag:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img: https://raw.githubusercontent.com/camellusforest/Image/master/imgs/20211109202326.jpg
   banner_img_height: 80
 about:
-  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img: https://raw.githubusercontent.com/camellusforest/Image/master/imgs/20211109202803.jpg
   banner_img_height: 80
 links:
   items: []
